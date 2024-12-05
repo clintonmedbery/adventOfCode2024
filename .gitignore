@@ -1,0 +1,20 @@
+# Common Rust build artifacts
+**/target/
+**/debug/
+**/release/
+
+# Common editor and IDE files
+**/.idea/
+**/.vscode/
+
+# Common OS-specific files
+**/.DS_Store
+**/Thumbs.db
+
+# Backup or temp files
+**/*.bak
+**/*.tmp
+**/*.rs.bk
+
+# Git worktrees
+**/.git/worktrees/
